@@ -8,4 +8,4 @@
 	- 21522614 – Nguyễn Chí Thi
 
 ## Dataset
-Link: https://www.kaggle.com/datasets/chithinguyen/vietnamese-book-covers
+[Vietnamese Book Cover](https://www.kaggle.com/datasets/chithinguyen/vietnamese-book-covers)
