@@ -24,17 +24,18 @@ This project focuses on automatically extracting key information from Vietnamese
 - **PPOCRLabel** – For text region annotation
 
 ## Pipeline
-Book Cover Image 
-	→
+```
+Book Cover Image
+       ↓
  [YOLOv8]
  Text Region Detection
-       →
+       ↓
  [VietOCR]
  Text Recognition
-       →
+       ↓
 Information Synthesis
 Structured Metadata (Title, Author, Publisher, Other)
-
+```
 ## Lecturers:
   - TS. Lê Đình Duy
   - ThS. Phạm Nguyễn Trường An
